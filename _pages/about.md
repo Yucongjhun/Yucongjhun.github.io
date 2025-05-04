@@ -182,7 +182,7 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
   </a>
 </span>
 
-**喻聪**; 司风琪; 熊尾; 周建新; 江晓明
+**喻聪**; 司风琪📧; 熊尾; 周建新; 江晓明
 {% assign doi = "10.1016/j.applthermaleng.2019.03.074" %}
 [**Project**](https://doi.org/10.1016/j.applthermaleng.2019.03.074)｜
 <span class="project-with-badge">
