@@ -185,6 +185,8 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 
 - [机理与数据驱动的电站锅炉SCR催化剂寿命预测模型研究](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLAeW-vG0L65G4CS52Qm9zx41llHh14iMF4Eyb-07LaahGzRO7VjkUSgDYSNiYYX4FkVCJhoeBzUY5-lggp9Wk0XLtrIejQrfM4rCL2F5Aq5IB0DGtcuBQLeZjIeDhEYO_Qqe83XKmwz5Nw5b9g4pcdps07wsiDikX74joRo_LJLw==&uniplatform=NZKPT&language=CHS), 胡佳颖, **喻聪**, 王子良, 司风琪 <span style="font-weight:bold; color:#E34234;">*能源研究与利用*</span>, **2022**
 
+- [基于燃烧与水动力耦合模型的锅炉蒸汽管超温特性研究](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TJ5uZAtav2qVAEwyqB1GKRYR1RVnbQBpnSGZd40LYiyxMbdEf-iHnlWDdi1Z63cWjZmAISxlWJ2rv1Z-YTdYbXtD_PPN53aDW2_62OG_Lg8tqIEwPxzWBibddgRn4_i4W8nR0B3pWWL2XWxBli9Ac5IpFx_Vkko9hJjM9oGbalP5Q==&uniplatform=NZKPT&language=CHS), **喻聪**, 司风琪, 李敏, 吴翰林 span style="font-weight:bold; color:#E34234;">*热能动力工程*</span>, **2021**
+
 ## 🧑‍🔬 Patents and Softwares
 - [A method for online diagnosis of combustion performance in power plant boilers considering mode migration and subspace prior knowledge](https://patents.google.com/patent/CN115495976A/zh?oq=CN115495976A),**Cong Yu**, Yukun Zhu, Shuo Chen, Tihua Zhang.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115495976A*</span>, **2022**)
 
