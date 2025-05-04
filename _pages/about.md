@@ -18,39 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥰 Welcome!
-<p style="line-height: 1.6;">
-  I am pursuing an MScR at <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>. Currently, I am reasearching in <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications(IDCOMs)</a>, supervisd by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a> from the Department of Engineering.
-</p>
-
-<p style="line-height: 1.6;">
-  From 2020 to 2024, I completed a Bachelor’s degree in Intelligent Manufacturing at
-  <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>,
-  under the supervision of
-  <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
-  During this period, I also collaborated closely with leading scholars from many schools,
-  <a href="https://mypage.just.edu.cn/nydl/fw/list.htm" target="_blank" rel="noopener">Dr. Wei Fan</a>,
-  <a href="https://seh.jhun.edu.cn/86/8d/c6485a165517/page.htm" target="_blank" rel="noopener">Prof. Ling Shi</a>,
-  <a href="https://jjxy.jhun.edu.cn/15/9a/c1966a136602/pagem.htm" target="_blank" rel="noopener">Prof. Xia Liu</a>,
-  <a href="https://power.seu.edu.cn/rsj/listm.htm" target="_blank" rel="noopener">Dr. Shaojun Ren</a>,
-  <a href="http://school.freekaoyan.com/hb/jhun/2021/08-15/16290354621509372.shtml" target="_blank" rel="noopener">Prof. Xiaoli Hu</a>,
-  and
-  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>, et al.  
-  In collaboration with these scholars, my work has spanned multiple areas, including  
-  <span style="font-weight:bold; color:#E34234;">Optimized computational methods for quantum detuning</span>,  
-  <span style="font-weight:bold; color:#E34234;">Real-time dynamic data coordination of full-condition power units via spatiotemporal redundancy techniques</span>,  
-  Data-driven modeling of industrial processes fault diagnosis, Microstructure–interface heat-transfer analysis, Human posture detection and action-recognition algorithms, Empirical asset pricing and Robot simulation control and motion-planning strategies.
-</p>
-
-<p style="line-height: 1.6;">
-    In recent years, I has participated as a core member in multiple key research and engineering projects, including grants from the 
-    <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank" rel="noopener">National Natural Science Foundation of China (NSFC)</a>, <a href="https://www.miit.gov.cn/" target="_blank" rel="noopener">the Ministry of Industry and Information Technology (MIIT) pilot program</a> on Internet + Safety Production in Civil Explosives, open projects at the Hubei Provincial Key Laboratory, and funding from the Hubei Enterprise‑University Joint Innovation Center. <span style="font-weight:bold; color:#E34234;"> One of the research outcomes achieved an internationally advanced level appraised by MIIT</span>.
-</p>
-<p style="line-height: 1.6;">
-    In the meantime, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and FRL et al.; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, EIT, and IEEE Access，et al. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
-</p>
-
-
-
+喻聪，1989年12月生，博士，<span style="font-weight:bold; color:#E34234;">**副教授（绿色通道晋升）**</span>。近年来，承担了国家自然科学基金、工信部 “互联网+民爆安全生产”试点课题、湖北省重点实验室开放课题、湖北省企校联合创新中心基金等项目，<span style="font-weight:bold; color:#E34234;">**2项研究成果被鉴定为国际先进水平,获中国电力创新奖二等奖1项、能源创新奖二等奖1项**</span>。发表论文30余篇、专利8项、软件著作权3件，代表性论文发表于Energy、Applied Thermal Engineering、中国电机工程学报等国内外权威期刊，担任Energy and AI、Asia-Pacific Journal of Chemical Engineering、Canadian Journal of Chemical Engineering等期刊审稿人，获江汉大学“五四”表彰先进个人等荣誉。
 
 # 🔥 News
 - *2025.03*: &nbsp;👏👏Our new journal article, <b style="color: #000000;">*Does multi-scale GARCH information enhance volatility prediction?*</b>, Accepted by <span style="font-weight:bold; color:#E34234;">*Finance Research Letters* (Q1,IF=7.4)</span>.
