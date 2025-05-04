@@ -227,7 +227,9 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 
 - [Sensitivity analysis of several operational parameters on gas temperature deviation in a tangential firing boiler](https://www.e3s-conferences.org/articles/e3sconf/abs/2020/54/e3sconf_icaeer2020_01022/e3sconf_icaeer2020_01022.html), **Cong Yu**, Haiquan Yu, Wenpeng Hu, Hanlin Wu, <span style="font-weight:bold; color:#E34234;">*E3S Web of Conferences. EDP Sciences*</span>, **2020**
 
-- [ A machine learning NOx emission model for SCR system considering mechanism knowledge and catalyst deactivation](https://www.e3s-conferences.org/articles/e3sconf/abs/2020/54/e3sconf_icaeer2020_04064/e3sconf_icaeer2020_04064.html), Cong Yu, Wei Fan, Haiquan Yu, Fengqi Si, <span style="font-weight:bold; color:#E34234;">*E3S Web of Conferences. EDP Sciences*</span>, **2020**
+- [A machine learning NOx emission model for SCR system considering mechanism knowledge and catalyst deactivation](https://www.e3s-conferences.org/articles/e3sconf/abs/2020/54/e3sconf_icaeer2020_04064/e3sconf_icaeer2020_04064.html), Cong Yu, Wei Fan, Haiquan Yu, Fengqi Si, <span style="font-weight:bold; color:#E34234;">*E3S Web of Conferences. EDP Sciences*</span>, **2020**
+
+- [燃煤电站SCR系统气固流动与催化剂磨损的混合数值模拟与优化](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLEv7ly-bv56jWwAJqT3YN9FuOdqBBC9LvtizfslU6MGgxvaf8e6KT4HEP4JwJX-wyeC0O3n7Gv9G_tZiLagiGxsjctZMjW4Dh5bbQoGkG2nIvskRzjA05_FBcXyqs80KTkAZEze220FAw73mg-40vX46_YPxSW0dMvgvAJSVFTHg==&uniplatform=NZKPT&language=CHS), **喻聪**，司风琪，董云山，江晓明, <span style="font-weight:bold; color:#E34234;">*东南大学学报（自然科学版）*</span>, **2019**
 
 
 
