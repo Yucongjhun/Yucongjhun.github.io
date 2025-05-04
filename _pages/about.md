@@ -174,18 +174,12 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 </div>
 </div>
 
-- [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054), **Yukun Zhu**, Yanxia Peng, Cong Yu, <span style="font-weight:bold; color:#E34234;">*IET Image Processing (Q3, IF = 2)*</span>, **2025**
+- [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054), Yukun Zhu, Yanxia Peng, **Cong Yu**, <span style="font-weight:bold; color:#E34234;">*IET Image Processing (Q3, IF = 2)*</span>, **2025**
 
 - [Quick Combustion Optimization for Utility Boilers Using a Novel Adaptive Hybrid Case Library](https://doi.org/10.3390/pr13020469), Cong Yu, Shuo Chen, Haiquan Yu, **Yukun Zhu**, Qiang Wang, Guangting Liao, Ling Shi, <span style="font-weight:bold; color:#E34234;">*Processes (Q2, IF = 2.8)*</span>, **2025**
 - [Dynamic NOx Emission Modeling in a Utility Circulating Fluidized Bed Boiler Considering Denoising and Multi-Frequency Domain Information](https://doi.org/10.3390/en18040790), Qianyu Li, Guanglong Wang, Xian Li, Qing Bao, Wei Li, **Yukun Zhu**, Cong Yu, Huan Ma, <span style="font-weight:bold; color:#E34234;">*Energies (Q3, IF = 3)*</span>, **2025**
 
 - [A Novel End-to-end Framework for A-share Stock Market Portfolio Optimization Considering Risk Measure and Feature Exposure](https://doi.org/10.1145/3698300.3698317), Nanxi Xu, Haotian Xiao, **Yukun Zhu**, Xiaochi Chen, Yixuan Li, Xiaoli Hu, <span style="font-weight:bold; color:#E34234;">*ICBDT (Conference,EI)*</span>, **2024**
-
-- [基于BO-WT-VMD组合模型的钢丝绳的损伤信号降噪方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLR7oJIP8Kmnjfkwn535lXocem97IdO397VrEP1BrAr2McElKl5JY_H5X35J4XlxPf1RY4CqrR1JUhomYm55p9a1vXLj11xHhU3CEPCBnW1VtMGByhKU6llbRKQCOOiqxmzAs6uL_JQTTL4q-PSY0wvWjSyVKWFe30zXyGaWGM47A==&uniplatform=NZKPT&language=CHS), **朱宇坤**，黎恒，吴文俊，柯圆圆, <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2024**
-
-- [基于可解释性的多模型融合的古代玻璃成分分析及亚分类方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLMUbW0k_U8nda6dU4fmSyRTCg6rk2jsGwz6GGiJ1UxDQpVvmHbEQKzcV-jKegukWtolZPE8-skXxgM2ZxZuH49qSsCQkxEq6qD-eeDRBXHJbo69E-ITxx1PQHXTY6mWq7TEX5u4UMDPUB1rHCMuhXCBDZKeuJSyumCOi31TaRhQQ==&uniplatform=NZKPT&language=CHS), 汤思远, 黎恒，邱诗睿，**朱宇坤**, 柯圆圆, <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2024**
-
-- [基于熵权-TOPSIS-DE模型对生产类原材料采购问题的研究](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TL9t8tzu88drtWW781FCijuNN7TbBbry4XcN-FGXrfDoSjCEMp0pv0xFL8aIqyUy7EeCzClaF_cmG8kVTnbfwtF9fulQ2J4c8Jo6qnzHfQH0nBbk9VFhV5gflTnPJJGNtlcPUfVFRdHIH6WzuueLMML-jpDBk6xD4ojzkhJk5lnlQ==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 黎恒, 梁怡恬, 熊昕, <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2023**
 
 - [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 喻聪, 张梯华, 刘红娇, 司风琪, <span style="font-weight:bold; color:#E34234;">*热力发电，中国T1核心期刊*</span>, **2022**
 
@@ -211,8 +205,11 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 
 
 # 📖 Educations
-- *2025.04 - 2025 (now)*, MScR of Digital Conmmunications, University of Edinburgh
-- *2020.09 - 2024.06*, Bachelor of Process Equipment & Control Engineering, Jianghan University
+- *2024.11 - 至今*，江汉大学，智能制造学院，副教授
+- *2019.11 - 2024.11*，江汉大学，智能制造学院，讲师
+- *2019.07 - 2019.11*，中南电力设计院有限公司，发电公司，研究员
+- *2012.09 - 2019.06*, 东南大学，动力工程及工程热物理,硕(博)士
+- *2008.09 - 2012.06*, 江汉大学，过程装备与控制工程，学士
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
