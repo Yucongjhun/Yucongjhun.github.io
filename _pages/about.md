@@ -19,6 +19,7 @@ redirect_from:
 
 # 🥰 Welcome!
 喻聪，1989年12月生，博士，<span style="font-weight:bold; color:#E34234;">**副教授（绿色通道晋升）**</span>。近年来，承担了国家自然科学基金、工信部 “互联网+民爆安全生产”试点课题、湖北省重点实验室开放课题、湖北省企校联合创新中心基金等项目，<span style="font-weight:bold; color:#E34234;">**2项研究成果被鉴定为国际先进水平,获中国电力创新奖二等奖1项、能源创新奖二等奖1项**</span>。发表论文30余篇、专利8项、软件著作权3件，代表性论文发表于Energy、Applied Thermal Engineering、中国电机工程学报等国内外权威期刊，担任Energy and AI、Asia-Pacific Journal of Chemical Engineering、Canadian Journal of Chemical Engineering等期刊审稿人，获江汉大学“五四”表彰先进个人等荣誉。
+欢迎感兴趣的同学可加入我们的研究团队，具有机械、能源、自动化、计算机等背景及数值模拟、仿真、编程基础优先考虑。
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉与湖北凯龙化工集团股份有限公司合作开发的<b style="color: #000000;">工业互联网+民用爆炸物品生产及仓储智能化安全监控系统</b>被中国工信部鉴定为<span style="font-weight:bold; color:#E34234;">国际先进水平</span>.
@@ -234,16 +235,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 -  江汉大学高层次人才科研项目：数据与机理融合驱动的燃煤电站脱硝催化剂寿命预测模型研究，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2021.1-2023.12，结题；
 
 # 🎖 Honors and Awards
-- *2025* <span style="font-weight:bold; color:#E34234;">**M Prize**</span>, Mathematical Contest in Modeling for American College Students(MCM/ICM)
-- *2024* <span style="font-weight:bold; color:#E34234;">**President's Scholarship of Jianghan University**</span> (Only 10 people in the whole school) 
-- *2023* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 4th MathorCup College Mathematical Modeling Challenge (Top 5 percent)
-- *2023* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 3rd MathorCup Mathematical Modeling Challenge in Colleges and Universities (Top 5 percent)
-- *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 14th Huazhong Cup College Student Mathematical Modeling Challenge (Top 5 percent)
-- *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 7th Shuwei Cup National Undergraduate Mathematical Modeling Challenge (Top 5 percent)
-- *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The First "Dingding Cup" College Student Big Data Challenge (The first of 2439 teams)
-- *2022* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 12th International Mathematical Contest in Modeling for University Students in the Asia-Pacific Region
-- *2022* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 3rd National Undergraduate Algorithm Design and Programming Challenge (Top 10 percent)
-- *2021* <span style="font-weight:bold; color:#E34234;">**Second Prize**</span>, The 13th National Undergraduate Mathematics Competition (Top 10 percent) 
+
 
 # 📖 Educations
 - *2025.04 - 2025 (now)*, MScR of Digital Conmmunications, University of Edinburgh
