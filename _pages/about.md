@@ -38,7 +38,7 @@ redirect_from:
   </a>
 </span>
 
-**Yukun Zhu**, Cong Yu📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
+Yukun Zhu, **Cong Yu**📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
 {% assign doi = "10.1016/j.energy.2024.130432" %}
 [**Project**](https://doi.org/10.1016/j.energy.2024.130432)｜
 <span class="project-with-badge">
@@ -73,7 +73,7 @@ redirect_from:
   </a>
 </span>
 
-Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
+Shuo Chen, **Cong Yu**📧, Yukun Zhu,Wei Fan, Haiquan Yu, Tihua Zhang
 {% assign doi = "10.1016/j.jtice.2023.105252" %}
 [**Project**](https://doi.org/10.1016/j.jtice.2023.105252)｜
 <span class="project-with-badge">
@@ -109,7 +109,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
   </a>
 </span>
 
-**Yukun Zhu**, Cong Yu📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
+Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 {% assign doi = "10.1016/j.energy.2023.128128" %}
 [**Project**](https://doi.org/10.1016/j.energy.2023.128128)｜
 <span class="project-with-badge">
@@ -132,6 +132,44 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 
 - The monotonous LightGBM model fits better and presents a more stable performance in the single factor variation experiment than the model without prior information.
 - The robust multivariate steady-state algorithm can effectively reduce the impacts of outliers and accurately distinguish the boundaries between the steady-state interval and the non-steady-state interval
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ATE 2019</div><img src='images/ouhe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
+  <a href="https://doi.org/10.1016/j.applthermaleng.2019.03.074" target="_blank" rel="noopener">
+    Numerical investigation of combustion optimization in a tangential firing boiler considering steam tube overheating
+  </a>
+</span>
+
+**Cong Yu**, Wei Xiong, Huan Ma, Jianxin Zhou, Fengqi Si📧, Xiaoming Jiang, Xuwen Fang
+{% assign doi = "10.1016/j.applthermaleng.2019.03.074" %}
+[**Project**](https://doi.org/10.1016/j.applthermaleng.2019.03.074)｜
+<span class="project-with-badge">
+  <a class="gs-citation-badge disabled"
+     href="https://scholar.google.com/scholar?cites={{ doi }}"
+     target="_blank"
+     rel="noopener">
+    <span class="gs-badge-left">
+      <span class="gs-emoji" aria-hidden="true">🎓️</span>
+      <span class="gs-badge-text">Citations</span>
+    </span>
+    <span class="gs-badge-right">
+      {{ site.data.ss_data[doi] | default: 0 }}
+    </span>
+  </a>
+</span>｜
+<span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>
+
+
+
+- A comprehensive boiler model that coupled the furnace and steam sides was developed.
+- A detailed mapping method was provided for the grid systems of different models.
+- The effects of the SOFA tilt angle on boiler efficiency and NOx emissions were studied.
+- The effects of the SOFA tilt angle on the tube outer surface temperature were studied.
+- Combustion optimization was conducted under the constraint of tube overheating.
 
 </div>
 </div>
