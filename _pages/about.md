@@ -176,21 +176,21 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 
 - [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054), Yukun Zhu, Yanxia Peng, **Cong Yu**, <span style="font-weight:bold; color:#E34234;">*IET Image Processing (Q3, IF = 2)*</span>, **2025**
 
-- [Quick Combustion Optimization for Utility Boilers Using a Novel Adaptive Hybrid Case Library](https://doi.org/10.3390/pr13020469), Cong Yu, Shuo Chen, Haiquan Yu, **Yukun Zhu**, Qiang Wang, Guangting Liao, Ling Shi, <span style="font-weight:bold; color:#E34234;">*Processes (Q2, IF = 2.8)*</span>, **2025**
-- [Dynamic NOx Emission Modeling in a Utility Circulating Fluidized Bed Boiler Considering Denoising and Multi-Frequency Domain Information](https://doi.org/10.3390/en18040790), Qianyu Li, Guanglong Wang, Xian Li, Qing Bao, Wei Li, **Yukun Zhu**, Cong Yu, Huan Ma, <span style="font-weight:bold; color:#E34234;">*Energies (Q3, IF = 3)*</span>, **2025**
+- [Quick Combustion Optimization for Utility Boilers Using a Novel Adaptive Hybrid Case Library](https://doi.org/10.3390/pr13020469), **Cong Yu**, Shuo Chen, Haiquan Yu, Yukun Zhu, Qiang Wang, Guangting Liao, Ling Shi, <span style="font-weight:bold; color:#E34234;">*Processes (Q2, IF = 2.8)*</span>, **2025**
+- [Dynamic NOx Emission Modeling in a Utility Circulating Fluidized Bed Boiler Considering Denoising and Multi-Frequency Domain Information](https://doi.org/10.3390/en18040790), Qianyu Li, Guanglong Wang, Xian Li, Qing Bao, Wei Li, Yukun Zhu, **Cong Yu**, Huan Ma, <span style="font-weight:bold; color:#E34234;">*Energies (Q3, IF = 3)*</span>, **2025**
 
 - [A Novel End-to-end Framework for A-share Stock Market Portfolio Optimization Considering Risk Measure and Feature Exposure](https://doi.org/10.1145/3698300.3698317), Nanxi Xu, Haotian Xiao, **Yukun Zhu**, Xiaochi Chen, Yixuan Li, Xiaoli Hu, <span style="font-weight:bold; color:#E34234;">*ICBDT (Conference,EI)*</span>, **2024**
 
-- [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 喻聪, 张梯华, 刘红娇, 司风琪, <span style="font-weight:bold; color:#E34234;">*热力发电，中国T1核心期刊*</span>, **2022**
+- [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS), 朱宇坤, **喻聪**, 张梯华, 刘红娇, 司风琪, <span style="font-weight:bold; color:#E34234;">*热力发电，中国T1核心期刊*</span>, **2022**
 
 ## 🧑‍🔬 Patents and Softwares
-- [A method for online diagnosis of combustion performance in power plant boilers considering mode migration and subspace prior knowledge](https://patents.google.com/patent/CN115495976A/zh?oq=CN115495976A),Cong Yu, **Yukun Zhu**, Shuo Chen, Tihua Zhang.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115495976A*</span>, **2022**)
+- [A method for online diagnosis of combustion performance in power plant boilers considering mode migration and subspace prior knowledge](https://patents.google.com/patent/CN115495976A/zh?oq=CN115495976A),**Cong Yu**, Yukun Zhu, Shuo Chen, Tihua Zhang.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115495976A*</span>, **2022**)
 
-- [A method for constructing a set of probabilities for deactivation of SCR catalyst in power plant considering local operational habits and coal quality influences](https://patents.google.com/patent/CN115455809A/zh?oq=CN115455809A), Cong Yu, Tihua Zhang, **Yukun Zhu**, Xiangyun Meng, Fang Hu.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115455809A*</span>, **2022**)
+- [A method for constructing a set of probabilities for deactivation of SCR catalyst in power plant considering local operational habits and coal quality influences](https://patents.google.com/patent/CN115455809A/zh?oq=CN115455809A), **Cong Yu**, Tihua Zhang, Yukun Zhu, Xiangyun Meng, Fang Hu.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115455809A*</span>, **2022**)
 
-- [A method for predicting the deactivation rate of SCR denitration catalyst considering coupled wear deformation and heterogeneous reaction](https://patents.google.com/patent/CN115458084A/zh?oq=CN115458084A), Cong Yu, Haojie Cui, Jing Cheng, Zuyun Liu, **Yukun Zhu**.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115458084A*</span>, **2022**)
+- [A method for predicting the deactivation rate of SCR denitration catalyst considering coupled wear deformation and heterogeneous reaction](https://patents.google.com/patent/CN115458084A/zh?oq=CN115458084A), **Cong Yu**, Haojie Cui, Jing Cheng, Zuyun Liu, Yukun Zhu.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115458084A*</span>, **2022**)
 
-- Power Plant SCR Denitration System High-Capacity Sample Mining and Catalyst Life Prediction Software V1.0, Cong Yu, Ziliang Wang, **Yukun Zhu**, Tihua Zhang, Shuo Chen.(<span style="font-weight:bold; color:#E34234;">*Software*</span>, **2022**)
+- Power Plant SCR Denitration System High-Capacity Sample Mining and Catalyst Life Prediction Software V1.0, **Cong Yu**, Ziliang Wang, Yukun Zhu, Tihua Zhang, Shuo Chen.(<span style="font-weight:bold; color:#E34234;">*Software*</span>, **2022**)
 
 # 🎖 Research Projects
 - 企业项目（湖北中烟工业有限责任公司武汉卷烟厂）：基于二维码的卷烟质量追溯能力提升的研究与应用, <span style="font-weight:bold; color:#E34234;">*主持人*</span>，2024.08-2025.10，在研
