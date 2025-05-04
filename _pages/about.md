@@ -174,6 +174,42 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国电机工程学报 2019</div><img src='images/dianjin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
+  <a href="https://doi.org/10.1016/j.applthermaleng.2019.03.074" target="_blank" rel="noopener">
+	  电站锅炉低氮燃烧与高温受热面换热的联合模拟及分析
+  </a>
+</span>
+
+**喻聪**; 司风琪; 熊尾; 周建新; 江晓明
+{% assign doi = "10.1016/j.applthermaleng.2019.03.074" %}
+[**Project**](https://doi.org/10.1016/j.applthermaleng.2019.03.074)｜
+<span class="project-with-badge">
+  <a class="gs-citation-badge disabled"
+     href="https://scholar.google.com/scholar?cites={{ doi }}"
+     target="_blank"
+     rel="noopener">
+    <span class="gs-badge-left">
+      <span class="gs-emoji" aria-hidden="true">🎓️</span>
+      <span class="gs-badge-text">Citations</span>
+    </span>
+    <span class="gs-badge-right">
+      {10}
+    </span>
+  </a>
+</span>｜
+<span style="font-weight:bold; color:#E34234;">*Applied Thermal Engineering* (Q1,IF=6.1)</span>
+
+
+
+- 基于CFD和Matlab平台，建立了超临界切圆锅炉炉内燃烧与高温受热面换热的耦合模型，实现了壁温与热流在风烟侧和汽水侧的迭代计算。
+- 针对不同管屏的形状特点，提出了Fluent结构和非结构化网格与Matlab离散微元的映射方法。
+- 模拟结果表明，对于660MW超临界锅炉满负荷运行工况，上调SOFA风摆角能降低化学未完全燃烧损失且抑制NOx的生成，但燃尽风在炉内的消旋长度也减小，导致水平烟道烟温偏差和受热面局部高温区面积增加。
+
+</div>
+</div>
+
 - [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054), Yukun Zhu, Yanxia Peng, **Cong Yu**, <span style="font-weight:bold; color:#E34234;">*IET Image Processing (Q3, IF = 2)*</span>, **2025**
 
 - [Quick Combustion Optimization for Utility Boilers Using a Novel Adaptive Hybrid Case Library](https://doi.org/10.3390/pr13020469), **Cong Yu**, Shuo Chen, Haiquan Yu, Yukun Zhu, Qiang Wang, Guangting Liao, Ling Shi, <span style="font-weight:bold; color:#E34234;">*Processes (Q2, IF = 2.8)*</span>, **2025**
