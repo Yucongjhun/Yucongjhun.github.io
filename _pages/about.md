@@ -199,7 +199,7 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
     </span>
   </a>
 </span>｜
-<span style="font-weight:bold; color:#E34234;">*Applied Thermal Engineering* (Q1,IF=6.1)</span>
+<span style="font-weight:bold; color:#E34234;">*中国电机工程学报*</span>
 
 
 
