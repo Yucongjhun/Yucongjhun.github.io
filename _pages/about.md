@@ -189,9 +189,11 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 
 - [Numerical study of combustion and heat transfer in a composite heat carrier generator](https://iopscience.iop.org/article/10.1088/1742-6596/2085/1/012035), **Cong Yu**, Ling Shi, Jiangying Hu, Hongjiao Liu, <span style="font-weight:bold; color:#E34234;">*ISPECE,EI Conference*</span>, **2021**
 
-- [Sensitivity analysis of several operational parameters on gas temperature deviation in a tangential firing boiler](https://www.e3s-conferences.org/articles/e3sconf/abs/2020/54/e3sconf_icaeer2020_01022/e3sconf_icaeer2020_01022.html), **Cong Yu**, Haiquan Yu, Wenpeng Hu, Hanlin Wu, <span style="font-weight:bold; color:#E34234;">*E3S Web of Conferences. EDP Sciences*</span>, 2021
+- [Sensitivity analysis of several operational parameters on gas temperature deviation in a tangential firing boiler](https://www.e3s-conferences.org/articles/e3sconf/abs/2020/54/e3sconf_icaeer2020_01022/e3sconf_icaeer2020_01022.html), **Cong Yu**, Haiquan Yu, Wenpeng Hu, Hanlin Wu, <span style="font-weight:bold; color:#E34234;">*E3S Web of Conferences. EDP Sciences*</span>, **2020**
 
-- 
+- [ A machine learning NOx emission model for SCR system considering mechanism knowledge and catalyst deactivation](https://www.e3s-conferences.org/articles/e3sconf/abs/2020/54/e3sconf_icaeer2020_04064/e3sconf_icaeer2020_04064.html), Cong Yu, Wei Fan, Haiquan Yu, Fengqi Si, <span style="font-weight:bold; color:#E34234;">*E3S Web of Conferences. EDP Sciences*</span>, **2020**
+
+
 
 ## 🧑‍🔬 Patents and Softwares
 - [A method for online diagnosis of combustion performance in power plant boilers considering mode migration and subspace prior knowledge](https://patents.google.com/patent/CN115495976A/zh?oq=CN115495976A),**Cong Yu**, Yukun Zhu, Shuo Chen, Tihua Zhang.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115495976A*</span>, **2022**)
