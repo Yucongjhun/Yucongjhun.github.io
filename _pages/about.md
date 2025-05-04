@@ -233,6 +233,8 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 
 - [Experimental and numerical predictions of ash particle erosion in SCR monolithic catalysts for coal-fired utility boilers](https://link.springer.com/article/10.1007/s11814-017-0001-9),  **Cong Yu**, Fengqi Si, Shaojun Ren, Xiaoming Jiang,  <span style="font-weight:bold; color:#E34234;">*Korean Journal of Chemical Engineering (Q2,IF=3)*</span>, **2017**
 
+- [1D Kinetic Analysis and 3D Multi-channel Modeling of Plate-type Monolithic Catalysts for a Selective Catalytic Reduction Process](https://www.sciencedirect.com/science/article/pii/S1876610217352748), **Cong Yu**, Bei Zhang, Wei Fan, Shaojun Ren, Shuzhou Li, Xiaoming Jiang,  <span style="font-weight:bold; color:#E34234;">*Energy Procedia (Q2,IF=3)*</span>, **2017**
+
 
 
 ## 🧑‍🔬 Patents and Softwares
