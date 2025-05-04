@@ -174,7 +174,7 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国电机工程学报 2019</div><img src='images/dianjin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国电机工程学报 2019</div><img src='images/dianji.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://doi.org/10.1016/j.applthermaleng.2019.03.074" target="_blank" rel="noopener">
@@ -195,7 +195,7 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
       <span class="gs-badge-text">Citations</span>
     </span>
     <span class="gs-badge-right">
-      {10}
+      10
     </span>
   </a>
 </span>｜
