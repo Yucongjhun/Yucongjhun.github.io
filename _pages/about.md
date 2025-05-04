@@ -231,6 +231,8 @@ Yukun Zhu, **Cong Yu**📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
 
 - [燃煤电站SCR系统气固流动与催化剂磨损的混合数值模拟与优化](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLEv7ly-bv56jWwAJqT3YN9FuOdqBBC9LvtizfslU6MGgxvaf8e6KT4HEP4JwJX-wyeC0O3n7Gv9G_tZiLagiGxsjctZMjW4Dh5bbQoGkG2nIvskRzjA05_FBcXyqs80KTkAZEze220FAw73mg-40vX46_YPxSW0dMvgvAJSVFTHg==&uniplatform=NZKPT&language=CHS), **喻聪**，司风琪，董云山，江晓明, <span style="font-weight:bold; color:#E34234;">*东南大学学报（自然科学版）*</span>, **2019**
 
+- [Experimental and numerical predictions of ash particle erosion in SCR monolithic catalysts for coal-fired utility boilers](https://link.springer.com/article/10.1007/s11814-017-0001-9),  **Cong Yu**, Fengqi Si, Shaojun Ren, Xiaoming Jiang,  <span style="font-weight:bold; color:#E34234;">*Korean Journal of Chemical Engineering (Q2,IF=3)*</span>, **2017**
+
 
 
 ## 🧑‍🔬 Patents and Softwares
