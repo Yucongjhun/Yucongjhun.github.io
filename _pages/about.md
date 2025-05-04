@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥰 Welcome!
-喻聪，1989年12月生，博士，<span style="font-weight:bold; color:#E34234;">**副教授（绿色通道晋升）**</span>。近年来，承担了国家自然科学基金、工信部 “互联网+民爆安全生产”试点课题、湖北省重点实验室开放课题、湖北省企校联合创新中心基金等项目，<span style="font-weight:bold; color:#E34234;">**2项研究成果被鉴定为国际先进水平,获中国电力创新奖二等奖1项、能源创新奖二等奖1项**</span>。发表论文30余篇、专利8项、软件著作权3件，代表性论文发表于Energy、Applied Thermal Engineering、中国电机工程学报等国内外权威期刊，担任Energy and AI、Asia-Pacific Journal of Chemical Engineering、Canadian Journal of Chemical Engineering等期刊审稿人，获江汉大学“五四”表彰先进个人等荣誉。
+喻聪，1989年12月生，博士，<span style="font-weight:bold; color:#E34234;">**副教授（绿色通道晋升）**</span>。近年来，承担了国家自然科学基金、工信部 “互联网+民爆安全生产”试点课题、湖北省重点实验室开放课题、湖北省企校联合创新中心基金等项目，<span style="font-weight:bold; color:#E34234;">**2项研究成果被鉴定为国际先进水平,获中国电力创新奖二等奖1项、能源创新奖二等奖1项**</span>。发表论文30余篇、专利8项、软件著作权3件，代表性论文发表于Energy、Applied Thermal Engineering、中国电机工程学报等国内外权威期刊，担任Energy and AI、Asia-Pacific Journal of Chemical Engineering、Canadian Journal of Chemical Engineering等期刊审稿人，获江汉大学“五四”表彰先进个人等荣誉。<br/>
+
 欢迎感兴趣的同学可加入我们的研究团队，具有机械、能源、自动化、计算机等背景及数值模拟、仿真、编程基础优先考虑。
 
 # 🔥 News
