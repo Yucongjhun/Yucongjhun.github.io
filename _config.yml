@@ -9,16 +9,15 @@
 title                    : "Yu Cong"
 description: |
   <p class="site-desc">
-    MScR student researching in the institute for Imaging, Data and Communications.
+    智能制造学院 副教授
   </p>
 
   <p class="site-desc"><strong>Research interests:</strong></p>
   <ul class="site-desc-list">
-    <li>TDLAS measurement</li>
-    <li>Combustion optimization</li>
-    <li>Microcale radiative heat transfer</li>
-    <li>Quantum Computing</li>
-repository   :: "/Users/edzyk/Documents/GitHub/YukunZhu-ED.github.io"
+    <li>低碳能源与碳中和技术</li>
+    <li>流程工业智能制造</li>
+    <li>电力大数据</li>
+repository   :: "/Users/edzyk/Documents/GitHub/Yucongjhun.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -38,9 +37,9 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h5K5LXEAAAAJ"
-  email            : "zyk7915@163.com"
+  email            : "congy@jhun.edu.cn   "
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-9891-730X"
-  researchgate     : "https://www.researchgate.net/profile/Yukun-Zhu-6?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Cong-Yu-40"
   lab_name         : "流程工业智能制造实验室"
   lab_url          : "https://www.labxing.com/lab/2199/home"
   uri              :
@@ -50,7 +49,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YukunZhu-ED"# e.g., "github username"
+  # github           : "YukunZhu-ED"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
